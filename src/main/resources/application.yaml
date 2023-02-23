@@ -1,1 +1,7 @@
 
+spring:
+  data:
+    mongodb:
+      database: sales-machine
+      port: 27017
+      host: localhost
